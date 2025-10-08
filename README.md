@@ -12,6 +12,8 @@ curl https://github.com/soramitsukhmer-infra-bot.keys >> ~/.ssh/authorized_keys
 curl https://github.com/soramitsukhmer-infra-bot.gpg
 ```
 
+You can find my [SSH Public Keys](https://github.com/soramitsukhmer-infra-bot.keys) and [GPG Public Keys](https://github.com/soramitsukhmer-infra-bot.gpg) here.
+
 <!--
 **soramitsukhmer-infra-bot/soramitsukhmer-infra-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
