@@ -7,7 +7,9 @@ Hi! I'm your [robot-friend]. Bip blop!
 ssh-import-id gh:soramitsukhmer-infra-bot
 # or
 curl https://github.com/soramitsukhmer-infra-bot.keys >> ~/.ssh/authorized_keys
+```
 
+```sh
 # GPG Public Key
 curl https://github.com/soramitsukhmer-infra-bot.gpg
 ```
